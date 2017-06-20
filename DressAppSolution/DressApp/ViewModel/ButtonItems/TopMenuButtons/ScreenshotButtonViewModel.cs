@@ -16,7 +16,7 @@ namespace DressApp.ViewModel.ButtonItems.TopMenuButtons
         { }
         #endregion
         #region Metodos
-        //esconce todo los botones
+        //esconde todo los botones
         public override void ClickExecuted()
         {
             PlaySound();
