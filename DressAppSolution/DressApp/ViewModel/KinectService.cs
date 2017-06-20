@@ -76,7 +76,7 @@ namespace DressApp.ViewModel
             }
         }
         
-        /// Gets or sets del Kinect camera image.
+        /// Obtiene (Gets) o establece (sets) la imagen de la cámara del Kinect.
         public WriteableBitmap KinectCameraImage
         {
             get { return _kinectCameraImage; }
